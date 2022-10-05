@@ -15,7 +15,7 @@ I have had to add a second array like the game of life, so as not to overwrite t
 
 The fireflies are still have different charge times, flash dispositions and and flash lengths, but you can definitely see some syncing 
 
-behavior and and it really looks more biological than random. if you do make all the fire flyies have the same charge times, flash dispositions and flash lengths 
+behavior and and it really looks more biological/organic than firefli1. if you do make all the fire flyies have the same charge times, flash dispositions and flash lengths 
 
 the whole block quickly falls into a steady on off pattern.
 
