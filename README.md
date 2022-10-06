@@ -26,6 +26,14 @@ The condition that has fully charged firefly flash when a neighbor flashes most 
 
 The fireflies do not have an internal clock other than their charge time and that is not affected by neighbors as it is in other models
 
+## lightningbug1
+
+https://www.instagram.com/p/CjXrlkmN3lq/
+
+
+I have liberated the lightning bugs from their 2d grid. In this different model. They are free to move they have location, velocity and acceleration, using PVectors. They still have 3 states, charging, charged and flashing.  They will flash if they are charged and any other bug is flashing at a distance of 1/4 of the screen.  You can interact with them they will follow your mouse the blue ball. #creativecode #processing4 #python #p5js #fireflies #lightningbugs
+
+
 [] put in references to other models and journal articles
 
 
