@@ -9,6 +9,8 @@ I have been thinking of fireflies all week. Here is a very simple start to a fir
 
 ## firefli2
 
+https://www.instagram.com/p/CjXXUQVObyy/
+
 I have added another condition that will make fully charged fireflies flash if any neighbor is flashing.
 
 I have had to add a second array like the game of life, so as not to overwrite the current array.
