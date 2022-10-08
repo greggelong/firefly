@@ -34,6 +34,15 @@ https://www.instagram.com/p/CjXrlkmN3lq/
 I have liberated the lightning bugs from their 2d grid. In this different model. They are free to move they have location, velocity and acceleration, using PVectors. They still have 3 states, charging, charged and flashing.  They will flash if they are charged and any other bug is flashing at a distance of 1/4 of the screen.  You can interact with them they will follow your mouse the blue ball. #creativecode #processing4 #python #p5js #fireflies #lightningbugs
 
 
+## lightningbug2conform
+
+In liighningbub2conform I have added some code to make the lightning bugs exchange their traits, charge time, flash disposition and flash length.  They will exchange if they are charged and any neighbor is flashing with a radius of 5 times their radius.
+
+This has an conforming synchronizing effect, as if  an idea has taken hold of the group. 
+
+If you press a key their charge times , flash dispositions and flash lengths are randomly reset. 
+
+
 [] put in references to other models and journal articles
 
 
