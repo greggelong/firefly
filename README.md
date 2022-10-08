@@ -41,8 +41,13 @@ In liighningbub2conform I have added some code to make the lightning bugs exchan
 This has an conforming synchronizing effect, as if  an idea has taken hold of the group. 
 
 If you press a key their charge times , flash dispositions and flash lengths are randomly reset. 
-
+ 
+ [] change this so that they only exchange if the firefly is fully changed and neighbor is flashing
+ 
 
 [] put in references to other models and journal articles
 
 
+## lightningbug3conform
+
+they have differnt flach colors as a trait and exchange them
