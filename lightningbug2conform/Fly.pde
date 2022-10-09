@@ -92,10 +92,13 @@ class Fly {
     PVector v2 = vt.loc; // gets location vector
     if (loc.dist(v2) < sz*5) {   // the bugs can see 1/4 the way across the field
       nFlash = true;
+      //exchange trates from flasher if only state = 1
+      if (state ==1){
       chargeTime = vt.chargeTime;
       flashLen= vt.flashLen;
       flashiness= vt.flashiness;
-    } else {
+      }
+      }else {
       nFlash = false;
     }
   }
