@@ -59,3 +59,5 @@ In the next version perhaps the color trait can affect the agents differently, p
 
 However you must note well that the there are only 7 color traits but many more possible ranges of charge times, flash dispositions and flash lengths.  You will often see that the fireflies have conformed in color, but not in charge times or flash lengths.  You can gather the flies together with your blue dot to facilitate the exchange of traits.
 
+
+[] change the sight radius in neighbor flash function. larger sight radius the easier they exchange traits.
