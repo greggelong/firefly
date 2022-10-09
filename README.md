@@ -42,7 +42,7 @@ This has an conforming synchronizing effect, as if  an idea has taken hold of th
 
 If you press a key their charge times , flash dispositions and flash lengths are randomly reset. 
  
- [] change this so that they only exchange if the firefly is fully changed and neighbor is flashing
+A firefly only takes the trate of a neighboring flashing firefly if it is fully.
  
 
 [] put in references to other models and journal articles
@@ -50,4 +50,9 @@ If you press a key their charge times , flash dispositions and flash lengths are
 
 ## lightningbug3conform
 
-they have differnt flach colors as a trait and exchange them
+In this the fireflies have an additional flash color trait that is randomly assigned but exchanged like the other traits in the last version.   
+
+With this trait you can more clearly see the synchronization.  
+
+In the next version perhaps the color trait can affect the agents differently, perhaps there movement (speed, direction, etc)  
+
