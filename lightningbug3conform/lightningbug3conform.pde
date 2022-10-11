@@ -1,7 +1,7 @@
 Fly [] bugs;
 int tick =0;
 int totalBug = 50;
-color [] clrs = {color(255), color(255,0,0),color(0,255,0),color(0,0,255),color(255,255,0),color(0,255,355),color(255,0,0)};
+color [] clrs = {color(255), color(255,0,0),color(0,255,0),color(0,0,255),color(255,255,0),color(0,255,255),color(255,0,0),color(127,0,0),color(0,127,0),color(0,0,127),color(127,127,0),color(0,127,127),color(127,0,0)};
 
 void setup() {
   size(800, 800);
