@@ -10,6 +10,7 @@ void setup() {
   for (int i = 0; i<totalBug; i++) {
     int index = int(random(clrs.length));
     bugs[i] = new Fly(random(width), random(height), clrs[index]);
+    //bugs[i] = new Fly(random(width), random(height), color(random(255),random(255),random(255))); //very random color not chosing from array
   }
 }
 
