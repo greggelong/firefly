@@ -26,6 +26,15 @@ The condition that has fully charged firefly flash when a neighbor flashes most 
 
 The fireflies do not have an internal clock other than their charge time and that is not affected by neighbors as it is in other models
 
+
+
+## firefly2conform
+
+I have added some code to make the fireflies exchange their traits, charge time, flash disposition, flash length.  they will exchange if the current firefly is in a fully charged state and a neighbor is flashing.  In the case that more than one neighbor is flashing the traits are taken randomly form the array of flashing neighbors.  
+
+This version displays some interesting patterns that resemble a generative geography. So far I have observed it to always get to a totally synchronous state, all blinking at the same time.
+
+
 ## lightningbug1
 
 https://www.instagram.com/p/CjXrlkmN3lq/
