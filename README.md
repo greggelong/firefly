@@ -30,7 +30,7 @@ The fireflies do not have an internal clock other than their charge time and tha
 
 ## firefly2conform
 
-I have added some code to make the fireflies exchange their traits, charge time, flash disposition, flash length.  they will exchange if the current firefly is in a fully charged state and a neighbor is flashing.  In the case that more than one neighbor is flashing the traits are taken randomly form the array of flashing neighbors.  
+I have added some code to make the fireflies exchange their traits, charge time, flash disposition, and flash length.  They will exchange if the current firefly is in a fully charged state and a neighbor is flashing.  In the case that more than one neighbor is flashing the traits are taken randomly form the array of flashing neighbors.  
 
 This version displays some interesting patterns that resemble a generative geography. So far I have observed it to always get to a totally synchronous state, all blinking at the same time.
 
