@@ -34,6 +34,13 @@ I have added some code to make the fireflies exchange their traits, charge time,
 
 This version displays some interesting patterns that resemble a generative geography. So far I have observed it to always get to a totally synchronous state, all blinking at the same time.
 
+## firefli3conform
+
+like firefli2conform they exchange traits.  However this one is on a torus.
+
+## firefli4conform
+
+like firefli3conform but here they have a color trait.  
 
 ## lightningbug1
 
