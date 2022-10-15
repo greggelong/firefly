@@ -42,6 +42,17 @@ like firefli2conform they exchange traits.  However this one is on a torus.
 
 like firefli3conform but here they have a color trait.  
 
+Cartography of conformity
+
+Returning to the grid based firefly model.
+
+This version displays some interesting patterns that resemble a generative geography. So far I have observed it to always get to a totally synchronous state, all blinking at the same time.
+
+I have added some code to make the fireflies exchange their traits, flash color, charge time, flash disposition, and flash length. They will exchange if the current firefly is in a fully charged state (grey color) and a neighbor is flashing. In the case that more than one neighbor is flashing the traits are taken randomly form the array of flashing neighbors.
+
+#creativecode #processing4 #python #p5js #fireflies #lightningbugs #generativeart #cellularautomata
+#math 
+
 ## lightningbug1
 
 https://www.instagram.com/p/CjXrlkmN3lq/
